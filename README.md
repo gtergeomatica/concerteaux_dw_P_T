@@ -15,8 +15,8 @@ port='XXXX' # e.g. standard port 5432
 
 Actually we download data from:
 
-* public ftp of CNRS
-* public WS OMIRL of Arpa Liguria using the followig repo: https://github.com/gtergeomatica/omirl_data_ingestion
+* *cnrs_download.py*: public ftp of CNRS
+* *arpal_download.py*: public WS OMIRL of Arpa Liguria using the followig repo: https://github.com/gtergeomatica/omirl_data_ingestion
 
 
 The script crea_grafici.py create the plot using the python library matplotlib
