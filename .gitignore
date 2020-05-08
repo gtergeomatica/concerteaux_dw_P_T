@@ -1,0 +1,6 @@
+#list of file to be ignored
+
+credenziali.py
+*.pyc
+weewx*
+__pycache__
